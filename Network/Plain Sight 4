@@ -1,0 +1,5 @@
+Message: There seems to be an email account found in the file, can you find the password?
+Value: 50
+
+From the same post request as before, we follow the HTTP stream.  
+We can see the post request with email and password. IWDCTF{passwordku}.
