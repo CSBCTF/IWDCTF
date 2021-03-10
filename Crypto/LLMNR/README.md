@@ -1,4 +1,5 @@
 Message: Due to the pandemic, Joker has changed his career path to cybercrime.  He finally got something after few months of trying to get into Justice League system. Now, he is stuck and did not know what to do next.
+
 Value: 75
 
 LLMNR is a protocol that is use in Active directory. 
