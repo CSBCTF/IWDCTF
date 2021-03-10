@@ -1,1 +1,1 @@
-# International Women's Day - Capure The Flag Brunei Darussalam
+# International Women's Day - Capture The Flag Brunei Darussalam
