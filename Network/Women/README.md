@@ -3,6 +3,7 @@ Question:
 “Women in leadership: Achieving an equal future in a COVID-19 world”
 
 Value: 100
+
 Solution:
 1.	Filter PCAP = Frame contains Women
  <img src="https://github.com/CSBCTF/IWDCTF/blob/8e969abf9ac4fcafee3b061741b178cde082371b/Network/Women/files/1.png">
