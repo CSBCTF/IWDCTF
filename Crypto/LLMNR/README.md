@@ -22,7 +22,7 @@ home/kali/Desktop/rockyou.txt – wordlist required to compare the hash to.
 
 Results of hashcat
 
-<img src="https://github.com/CSBCTF/IWDCTF/blob/9bd743a1388502c9a19864eef7de6a8844a517f4/Crypto/LLMNR/files/1.PNG">
+<img src="https://github.com/CSBCTF/IWDCTF/blob/9bd743a1388502c9a19864eef7de6a8844a517f4/Crypto/LLMNR/files/3.PNG">
 The hash has been cracked! 
 Its 12#$qwER.
 
