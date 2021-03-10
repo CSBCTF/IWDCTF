@@ -1,8 +1,8 @@
 Message: A person called the incident responder to notify of a hacking incident. The incident responder has acquired the pcap file which is soon to be analyses.  
 
 Can you find out the Victim ip address?
-
 Format flag: IWDCTF{ip address}
+
 Value: 50
 
 In this challenge, a pcap file was provided containing the network traffic. From the Tcp follow stream we can see that this is a Phishing scam. 
