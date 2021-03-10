@@ -14,7 +14,7 @@ Output of the program when ran on Linux OS.
 It seems like it requires a login credentials. When tested with dummy credentials, it output “user doesn’t exist” prompt. Let’s see if we can look what is inside of the file.  
 
 We can use strings command
-
+<img src="https://github.com/CSBCTF/IWDCTF/blob/fecf28220c0613d17f60789affc229c88e391eb4/Binary%20-%20Rope/3%20strings.PNG">
  
 Voilà we can see the flag!
 Flag: IWDCTF{0bfU51c@+1on_15_1mP0r+@n+}
