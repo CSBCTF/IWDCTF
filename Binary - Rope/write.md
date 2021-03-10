@@ -4,7 +4,7 @@ Message: Super Advance Vault
 Value: 50
 We can see that the nature of the file is a Linux executable 64-bit architecture. Which means it’s for Linux OS. 
 
-
+Binary - Rope/1 file.PNG
 
 Output of the program when ran on Linux OS.
  
