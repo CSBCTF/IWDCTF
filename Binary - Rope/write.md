@@ -9,7 +9,8 @@ We can see that the nature of the file is a Linux executable 64-bit architecture
 
 
 Output of the program when ran on Linux OS.
- 
+<img src="https://github.com/CSBCTF/IWDCTF/blob/f11a4497d8881f703a840036d9dcd5ad12f65e0c/Binary%20-%20Rope/2%20run.PNG">
+
 It seems like it requires a login credentials. When tested with dummy credentials, it output “user doesn’t exist” prompt. Let’s see if we can look what is inside of the file.  
 
 We can use strings command
