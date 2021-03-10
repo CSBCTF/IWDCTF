@@ -10,4 +10,5 @@ In this challenge, a pcap file was provided containing the network traffic. From
 <img src="https://github.com/CSBCTF/IWDCTF/blob/8529ff1cb76564421dd187bac095a0b28c5f80a6/Network/Plain%20sight/files/1.png">
  
 From the question, we need to find the victim Ip address. At first glance, we can see that ip address 192.168.147.137 is requesting to access a website at 192.168.247.128 via GET request.
-By assumption and we can try and submit that ip address in a format flag IWDCTF{192.168.247.137}. It is correct!
+
+We can try and submit that ip address in a format flag IWDCTF{192.168.247.137}. It is correct!
