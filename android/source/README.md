@@ -1,3 +1,10 @@
+Challenge: Android
+
+Mesage: A careless developer has misplaced the flag somewhere
+
+Value: 150
+
+
 <img width="877" alt="Screenshot 2021-03-15 at 2 51 30 PM" src="https://user-images.githubusercontent.com/80381568/111119014-835d6980-85a4-11eb-8e1d-ad2848eec757.png">
 Use the above apktool to decompile the apk
 
