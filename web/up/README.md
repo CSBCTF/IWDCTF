@@ -13,6 +13,7 @@ Let's navigate to the page
 
 This is a classic reverse shell upload attack. 
 
-Let's upload over php shell. 
+Let's upload the shell scrip we get from internet.
+You can find any other script which works in similar way to this one.
 
 <img src="https://github.com/CSBCTF/IWDCTF/blob/e605738d6379d5543af5770eb95a0fcdaf416caa/web/up/files/CapturePOC.PNG">
