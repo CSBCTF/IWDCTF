@@ -25,7 +25,7 @@ Let’s open a debugger to debug the program.
  <img src="https://github.com/CSBCTF/IWDCTF/blob/79aebcfe90704f4bc23ec4ae7744fd6187d069a4/Binary/Waiting/files/5.PNG">
 
 Seems like the program is still running in the background as the countdown timer is waiting to finish. 
-Let’s stop/cancel the program by pressing ctrl+C (kali linux vm on Windows).  After that using the command continue  to resume the program.  
+Let’s stop/cancel the program by pressing **ctrl+C** (kali linux vm on Windows).  After that using the command continue  to resume the program.  
  
 <img src="https://github.com/CSBCTF/IWDCTF/blob/79aebcfe90704f4bc23ec4ae7744fd6187d069a4/Binary/Waiting/files/6.png">
 
