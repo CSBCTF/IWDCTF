@@ -10,15 +10,19 @@ The instagram page
 
 <img src="https://github.com/CSBCTF/IWDCTF/blob/338c0e5b7a559c3f598ad73236c3c2cd02d10137/Miscellaneous/Socials/files/Capture.PNG">
 
-there are only 4 pictures. When we look around there seems to be alot charizad picture.
+
+There are only 4 pictures. When we look around there seems to be alot charizad picture.
 
 <img src="https://github.com/CSBCTF/IWDCTF/blob/338c0e5b7a559c3f598ad73236c3c2cd02d10137/Miscellaneous/Socials/files/Capture1.PNG">
+
 
 This seems like a social engineering question according to the description of the challenge.
 
 So lets try emailing the email above. 
 
 <img src="https://github.com/CSBCTF/IWDCTF/blob/338c0e5b7a559c3f598ad73236c3c2cd02d10137/Miscellaneous/Socials/files/Capture10.PNG">
+
+
 
 We got a reply
 
